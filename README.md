@@ -29,7 +29,7 @@ I build clean, responsive web interfaces using HTML, CSS, and JavaScript — and
 ---
 
 ## Live demo
-[Play it here](https://vaishnavi280506.github.io/Tic-Tac-Toe/)
+Tic Tac Toe: [Play it here](https://vaishnavi280506.github.io/Tic-Tac-Toe/)
 
 ---
 

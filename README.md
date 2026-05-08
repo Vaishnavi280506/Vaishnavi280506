@@ -39,6 +39,8 @@ Countdown Timer: [Play it here]( https://vaishnavi280506.github.io/Countdown-Tim
 
 TripBuzz: [Play it here]( https://vaishnavi280506.github.io/TripBuzz-a-travel/)
 
+Portfolio: [Play it here]( https://vaishnavi280506.github.io/Portfolio/)
+
 ---
 
 ## Experience

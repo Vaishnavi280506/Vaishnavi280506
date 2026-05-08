@@ -30,19 +30,6 @@ I build clean, responsive web interfaces using HTML, CSS, and JavaScript — and
 
 ---
 
-## Live demo
-Tic Tac Toe: [Play it here](https://github.com/Vaishnavi280506/Tic-Tac-Toe)
-
-To do list: [Play it here](https://github.com/Vaishnavi280506/To-do-list)
-
-Countdown Timer: [Play it here](https://github.com/Vaishnavi280506/Countdown-Timer)
-
-TripBuzz: [Play it here](https://github.com/Vaishnavi280506/TripBuzz-a-travel)
-
-Portfolio: [Play it here](https://github.com/Vaishnavi280506/Portfolio)
-
----
-
 ## Experience
 
 **Frontend Developer Intern · Unified Mentor** *(Jul 2025 – Sep 2025)*  

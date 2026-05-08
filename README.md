@@ -35,7 +35,7 @@ To do list: [Play it here](https://vaishnavi280506.github.io/To-do-list/)
 
 Countdown Timer: [Play it here]( https://vaishnavi280506.github.io/Countdown-Timer/)
 
-TripBuzz: [Play it here]( https://vaishnavi280506.github.io/Countdown-Timer/)
+TripBuzz: [Play it here]( https://vaishnavi280506.github.io/TripBuzz-a-travel/)
 
 ---
 

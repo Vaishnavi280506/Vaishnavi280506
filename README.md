@@ -11,7 +11,7 @@ I build clean, responsive web interfaces using HTML, CSS, and JavaScript — and
 | Project | Tech | About |
 |--------|------|-------|
 | SympAI | HTML, CSS, JS | Healthcare platform — doctor consultation UI + AI chatbot. Built the entire frontend for the consultation module. Won First Runner-Up at Intellify 3.0. |
-| [TripBuzz](https://github.com/Vaishnavi280506/TripBuzz) | HTML, CSS | Travel booking website UI inspired by IndiGo — clean, modern, fully responsive. Built with pure HTML and CSS, no frameworks. |
+| [TripBuzz](https://vaishnavi280506.github.io/TripBuzz-a-travel/) | HTML, CSS | Travel booking website UI inspired by IndiGo — clean, modern, fully responsive. Built with pure HTML and CSS, no frameworks. |
 | [Tic-Tac-Toe](https://github.com/Vaishnavi280506/Tic-Tac-Toe) | HTML, CSS, JS | Classic game rebuilt with DOM manipulation, logic handling, and responsive UI. |
 | [Countdown Timer](https://github.com/Vaishnavi280506/Countdown-Timer) | HTML, CSS, JS | Real-time countdown with date handling and dynamic UI updates. |
 | [To-Do List](https://github.com/Vaishnavi280506/To-do-list) | HTML, CSS, JS | Mickey-themed task manager — because interfaces should be fun to use. |

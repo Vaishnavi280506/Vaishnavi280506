@@ -15,7 +15,7 @@ I build clean, responsive web interfaces using HTML, CSS, and JavaScript — and
 | [TripBuzz](https://github.com/Vaishnavi280506/TripBuzz-a-travel) | HTML, CSS | Travel booking website UI inspired by IndiGo — clean, modern, fully responsive. Built with pure HTML and CSS, no frameworks. |
 | [Tic-Tac-Toe](https://github.com/Vaishnavi280506/Tic-Tac-Toe) | HTML, CSS, JS | Classic game rebuilt with DOM manipulation, logic handling, and responsive UI. |
 | [Countdown Timer](https://github.com/Vaishnavi280506/Countdown-Timer) | HTML, CSS, JS | Real-time countdown with date handling and dynamic UI updates. |
-| [To-Do List](https://github.com/Vaishnavi280506/To-do-list) | HTML, CSS, JS | Mickey-themed task manager — because interfaces should be fun to use. |
+| [To-Do List](https://github.com/Vaishnavi280506/to-do-list.git) | HTML, CSS, JS | Mickey-themed task manager — because interfaces should be fun to use. |
 
 ---
 

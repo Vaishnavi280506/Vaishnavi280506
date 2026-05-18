@@ -42,9 +42,9 @@ Competed among top student teams, built SympAI — a healthcare consultation pla
 
 ## Currently
 
-- Learning React and modern JavaScript patterns
-- Building projects to push my GitHub graph green
-- Open to frontend internships and junior developer roles
+- Learning React and modern JavaScript patterns.
+- Building projects to push my GitHub graph green.
+- Open to frontend internships and junior developer roles.
 
 ---
 
